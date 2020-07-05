@@ -1,0 +1,16 @@
+Chapter1 환경설정
+
+1. yarn init
+
+2. yarn add react react-dom
+
+3. yarn add --dev webpack webpack-dev-server
+
+4. yarn add --dev bable-core babel-loader babel-preset-react-app
+
+5. yarn add --dev webpack -cli
+
+
+
+폴더 생성
+public 
